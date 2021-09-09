@@ -1,6 +1,6 @@
 ### Hi I'm Darek 👋 
-### Currently I'm building React & Node.js application for the Research Institute to help scientists browse through their big collection of datasets ⚡
-### Besides Software Engineering I do seismic signal processing, modeling and interpretation on a daily basis ⚡
+## Currently I'm building React & Node.js application for the Research Institute to help scientists browse through their big collection of datasets.
+## Besides Software Engineering I do seismic signal processing, modeling and interpretation on a daily basis ⚡
 
 <!--
 **WojcikDariusz/WojcikDariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
