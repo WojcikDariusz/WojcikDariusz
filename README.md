@@ -1,6 +1,7 @@
 ### Hi I'm Darek 👋 
 
 Currently I'm building production ready React & Node.js application for the Research Institute to help scientists browse through their big collection of datasets.
+
 Besides Software Engineering I work with seismic signals processing, modeling and interpretation on a daily basis ⚡
 
 <!--
