@@ -1,9 +1,10 @@
 ### Hi I'm Darek 👋 
 
 Currently I'm building production ready React & Node.js application for the Research Institute to help scientists browse through their big collection of datasets.
-Most of my code, here is proprietary and therefore it's not publically accessible.
+
 Besides Software Engineering I work with seismic signal processing, modeling and interpretation on a daily basis ⚡
 
+Most of my code, here is proprietary and therefore it's not publically accessible.
 <!--
 **WojcikDariusz/WojcikDariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
